@@ -20,4 +20,8 @@ python bot.py
 
 ## 📋 Команды
 - `/start` — приветствие
+<<<<<<< HEAD
 >>>>>>> 3f8dec1 (My Telegram bot)
+=======
+# test
+>>>>>>> 102b7fd (tex.t README)
